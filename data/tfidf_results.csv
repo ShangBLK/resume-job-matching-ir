@@ -1,0 +1,101 @@
+Job Index,Job Title,Resume ID,TFIDF Score,Snippet,Rank
+0,Flutter Developer,27058381,0.4165,system administrator             experience        03/2009      company name          21674 sksit se,1
+0,Flutter Developer,32959732,0.3144,"senior director, information technology       executive profile     a distinguish director of inform",2
+0,Flutter Developer,90867631,0.309,information technology specialist           career overview    permanent            certifications  ,3
+0,Flutter Developer,27372171,0.2782,information technology specialist/system analysis           summary     i have over 10 years of prof,4
+0,Flutter Developer,64017585,0.2771,"information technology consultant, managing member           summary    a versatile, analytic it spe",5
+0,Flutter Developer,22450718,0.2712,information technology specialist       professional profile     quality-driven and practical system,6
+0,Flutter Developer,10553553,0.271,information technology manager         summary     dedicated  it manager  well-versed in analyzing a,7
+0,Flutter Developer,18159866,0.2699,senior vice president of global information technology       executive profile     high-energy resul,8
+0,Flutter Developer,51363762,0.2637,amc computer specialist and intern       summary     information technology specialist with twenty n,9
+0,Flutter Developer,10265057,0.2614,working         rf systems engineer             qualifications        microsoft office/office for ma,10
+1,Django Developer,19850482,0.5244,senior vp - information technology       executive profile      core skills      demonstrates abilit,1
+1,Django Developer,31111279,0.5123,"manager, information technology project management office       professional summary     highly moti",2
+1,Django Developer,33381211,0.4993,vice president information technology - software engineering         professional summary     a resu,3
+1,Django Developer,83816738,0.463,information technology intern (test automation engineer)       summary      over 3 years of experien,4
+1,Django Developer,25905275,0.4351,information technology specialist       career overview    temporary/permanent service representativ,5
+1,Django Developer,25207620,0.4132,information technology certified technician       summary    over nineteen years of experience in in,6
+1,Django Developer,27372171,0.4102,information technology specialist/system analysis           summary     i have over 10 years of prof,7
+1,Django Developer,91635250,0.4013,christopher    townes         summary     knowledgeable information technology specialist capable of,8
+1,Django Developer,10265057,0.3858,working         rf systems engineer             qualifications        microsoft office/office for ma,9
+1,Django Developer,13405733,0.3762,director of information technology         professional summary     dynamic information technology m,10
+2,Machine Learning,18752129,0.3887,"information technology analyst       summary    to pursue a caring and creative career, where i can ",1
+2,Machine Learning,27485716,0.3419,corporate project manager       career overview    seasoned project manager driven to achieve result,2
+2,Machine Learning,25990239,0.3398,information technology instructor       summary    seventeen years experience in the information tec,3
+2,Machine Learning,46260230,0.3036,information technology specialist(discountpcfix)       summary     i am obsessed with technology. it,4
+2,Machine Learning,26801767,0.297,"director, information technology           professional summary     results-driven it director with ",5
+2,Machine Learning,70089206,0.2842,information technology specialist           summary    highly skilled and results-oriented it specia,6
+2,Machine Learning,27058381,0.2839,system administrator             experience        03/2009      company name          21674 sksit se,7
+2,Machine Learning,10265057,0.2756,working         rf systems engineer             qualifications        microsoft office/office for ma,8
+2,Machine Learning,32959732,0.2737,"senior director, information technology       executive profile     a distinguish director of inform",9
+2,Machine Learning,91635250,0.2707,christopher    townes         summary     knowledgeable information technology specialist capable of,10
+3,iOS Developer,20674668,0.4332,ea         information technology specialist iii (drupal dev)       summary     drupal developer wit,1
+3,iOS Developer,40018190,0.4322,it support technician       education      bachelor of science     may 2014       william woods univ,2
+3,iOS Developer,83816738,0.3988,information technology intern (test automation engineer)       summary      over 3 years of experien,3
+3,iOS Developer,41344156,0.358,vp of information technology       executive profile    a results oriented technology leader with ov,4
+3,iOS Developer,27770859,0.3454,information technology administrator         professional profile    i am a jack of all trades it gu,5
+3,iOS Developer,32959732,0.3167,"senior director, information technology       executive profile     a distinguish director of inform",6
+3,iOS Developer,31243710,0.3065,it manager       summary    ten years of management experience with a focus on team building and pro,7
+3,iOS Developer,37242217,0.3035,information technology consultant           career overview     accomplished information technology ,8
+3,iOS Developer,24038620,0.301,information technology director                 experience      information technology director    a,9
+3,iOS Developer,11580408,0.2968,information technology coordinator       career overview     avp / director of information technolog,10
+4,Full Stack Developer,83816738,0.3502,information technology intern (test automation engineer)       summary      over 3 years of experien,1
+4,Full Stack Developer,18752129,0.3404,"information technology analyst       summary    to pursue a caring and creative career, where i can ",2
+4,Full Stack Developer,28126340,0.3291,information technology coordinator       professional profile    b.s. graduate with a record of succ,3
+4,Full Stack Developer,20001721,0.2898,information technology student         career overview     results-driven database administrator wit,4
+4,Full Stack Developer,46260230,0.2854,information technology specialist(discountpcfix)       summary     i am obsessed with technology. it,5
+4,Full Stack Developer,26746496,0.2851,database programmer/analyst (.net developer)       summary     software engineer with 2 years in web,6
+4,Full Stack Developer,16186411,0.2803,database programmer/analyst (.net developer)       summary     software engineer with 2 years in web,7
+4,Full Stack Developer,33381211,0.2751,vice president information technology - software engineering         professional summary     a resu,8
+4,Full Stack Developer,20674668,0.2688,ea         information technology specialist iii (drupal dev)       summary     drupal developer wit,9
+4,Full Stack Developer,22450718,0.2622,information technology specialist       professional profile     quality-driven and practical system,10
+5,Java Developer,20674668,0.3991,ea         information technology specialist iii (drupal dev)       summary     drupal developer wit,1
+5,Java Developer,83816738,0.3811,information technology intern (test automation engineer)       summary      over 3 years of experien,2
+5,Java Developer,27058381,0.3366,system administrator             experience        03/2009      company name          21674 sksit se,3
+5,Java Developer,17111768,0.3351,information technology project manager system analysis (sysanalsys) [gs-2210-12]       professional ,4
+5,Java Developer,22450718,0.3301,information technology specialist       professional profile     quality-driven and practical system,5
+5,Java Developer,28126340,0.3255,information technology coordinator       professional profile    b.s. graduate with a record of succ,6
+5,Java Developer,27372171,0.3076,information technology specialist/system analysis           summary     i have over 10 years of prof,7
+5,Java Developer,51363762,0.2952,amc computer specialist and intern       summary     information technology specialist with twenty n,8
+5,Java Developer,12763627,0.294,asp.net web developer           accomplishments      won associate of the month award at cyient  mem,9
+5,Java Developer,17641670,0.2925,information technology specialist           professional summary     to secure a position as an info,10
+6,Full Stack Developer,83816738,0.3808,information technology intern (test automation engineer)       summary      over 3 years of experien,1
+6,Full Stack Developer,27372171,0.3239,information technology specialist/system analysis           summary     i have over 10 years of prof,2
+6,Full Stack Developer,20674668,0.3118,ea         information technology specialist iii (drupal dev)       summary     drupal developer wit,3
+6,Full Stack Developer,15297298,0.2936,"practice manager       executive summary    strategic, motivational, and solutions-focused leader wi",4
+6,Full Stack Developer,10247517,0.2931,information technology manager       professional summary    possesses an extensive background in in,5
+6,Full Stack Developer,19796840,0.289,"information technology auditor         skills        peoplesoft hcm 8.8/9.x, peoplesoft financials 8",6
+6,Full Stack Developer,81761658,0.2879,it manager             highlights          customer and client relations  advanced troubleshooting t,7
+6,Full Stack Developer,12763627,0.2825,asp.net web developer           accomplishments      won associate of the month award at cyient  mem,8
+6,Full Stack Developer,27058381,0.2803,system administrator             experience        03/2009      company name          21674 sksit se,9
+6,Full Stack Developer,18159866,0.2727,senior vice president of global information technology       executive profile     high-energy resul,10
+7,JavaScript Developer,83816738,0.3798,information technology intern (test automation engineer)       summary      over 3 years of experien,1
+7,JavaScript Developer,15651486,0.3795,director of information technology       career overview    seeking a position as a director of i.t.,2
+7,JavaScript Developer,18752129,0.3742,"information technology analyst       summary    to pursue a caring and creative career, where i can ",3
+7,JavaScript Developer,18067556,0.3504,"master data manager           experience      master data manager  ,     01/2019   to   current     ",4
+7,JavaScript Developer,10089434,0.3334,information technology technician i       summary     versatile systems administrator possessing sup,5
+7,JavaScript Developer,27058381,0.305,system administrator             experience        03/2009      company name          21674 sksit se,6
+7,JavaScript Developer,12334140,0.2672,production associate       summary    conclude your application letter by thanking the employer for ,7
+7,JavaScript Developer,66832845,0.264,information technology specialist i       professional summary              skills    account manage,8
+7,JavaScript Developer,32959732,0.2603,"senior director, information technology       executive profile     a distinguish director of inform",9
+7,JavaScript Developer,27295996,0.2535,it director               accomplishments      cxa- 206-1 | citrix xenapp 6.5 basic administration; ,10
+8,DevOps Engineer,18067556,0.3875,"master data manager           experience      master data manager  ,     01/2019   to   current     ",1
+8,DevOps Engineer,32959732,0.3651,"senior director, information technology       executive profile     a distinguish director of inform",2
+8,DevOps Engineer,30223363,0.3567,business systems analyst i           qualifications        technical skills: business applications: ,3
+8,DevOps Engineer,17641670,0.3414,information technology specialist           professional summary     to secure a position as an info,4
+8,DevOps Engineer,20674668,0.3383,ea         information technology specialist iii (drupal dev)       summary     drupal developer wit,5
+8,DevOps Engineer,27372171,0.3268,information technology specialist/system analysis           summary     i have over 10 years of prof,6
+8,DevOps Engineer,83816738,0.2986,information technology intern (test automation engineer)       summary      over 3 years of experien,7
+8,DevOps Engineer,70089206,0.2968,information technology specialist           summary    highly skilled and results-oriented it specia,8
+8,DevOps Engineer,91635250,0.2912,christopher    townes         summary     knowledgeable information technology specialist capable of,9
+8,DevOps Engineer,52246737,0.2874,"information technology provisioning technician         career overview    process driven, goal orien",10
+9,Software Engineer,19850482,0.397,senior vp - information technology       executive profile      core skills      demonstrates abilit,1
+9,Software Engineer,17111768,0.3486,information technology project manager system analysis (sysanalsys) [gs-2210-12]       professional ,2
+9,Software Engineer,31111279,0.3267,"manager, information technology project management office       professional summary     highly moti",3
+9,Software Engineer,83816738,0.3231,information technology intern (test automation engineer)       summary      over 3 years of experien,4
+9,Software Engineer,36856210,0.3008,information technology         summary     dedicated  information assurance professional  well-verse,5
+9,Software Engineer,18176523,0.2883,senior information technology manager       executive summary     results-focused information techno,6
+9,Software Engineer,22450718,0.2859,information technology specialist       professional profile     quality-driven and practical system,7
+9,Software Engineer,46260230,0.2764,information technology specialist(discountpcfix)       summary     i am obsessed with technology. it,8
+9,Software Engineer,33381211,0.2742,vice president information technology - software engineering         professional summary     a resu,9
+9,Software Engineer,18752129,0.2598,"information technology analyst       summary    to pursue a caring and creative career, where i can ",10
