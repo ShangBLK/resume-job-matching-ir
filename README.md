@@ -31,7 +31,7 @@ resume-job-matching-ir/
 │   └── llm_resume_to_jobs.csv     # LLM output file
 │
 ├── pdfs/
-│   └── project_paper.pdf          # (Optional) project report
+│   └── project_paper.pdf          # project report
 
 ├── .gitignore
 └── README.md
