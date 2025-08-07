@@ -34,7 +34,8 @@ resume-job-matching-ir/
 │   └── project_paper.pdf          # (Optional) project report
 
 ├── .gitignore
-└── README.md ```
+└── README.md
+```
 
 ## Setup Instructions
 
