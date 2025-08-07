@@ -15,28 +15,26 @@ This project explores how well traditional and modern information retrieval tech
 
 ## Project Structure
 
+
+```text
 resume-job-matching-ir/
 ├── data/
-│ ├── Resume.csv # Resume dataset
-│ ├── job_title_des.csv # Job descriptions
+│   ├── Resume.csv                 # Resume dataset
+│   ├── job_title_des.csv          # Job descriptions
 │
 ├── notebooks/
-│ ├── shared_setup.ipynb # Preprocessing + cleaning
-│ ├── tfidf_retrieval.ipynb # TF-IDF model and results
-│ ├── semantic_llm_retrieval.ipynb # LLM model and results
-│ ├── compare_models.ipynb # Overlap & scoring comparison
-│ ├── tfidf_resume_to_jobs.csv # TF-IDF output file
-│ └── llm_resume_to_jobs.csv # LLM output file
+│   ├── shared_setup.ipynb         # Preprocessing + cleaning
+│   ├── tfidf_retrieval.ipynb      # TF-IDF model and results
+│   ├── semantic_llm_retrieval.ipynb # LLM model and results
+│   ├── compare_models.ipynb       # Overlap & scoring comparison
+│   ├── tfidf_resume_to_jobs.csv   # TF-IDF output file
+│   └── llm_resume_to_jobs.csv     # LLM output file
 │
 ├── pdfs/
-│ └── project_paper.pdf # (Optional) project report
+│   └── project_paper.pdf          # (Optional) project report
 
 ├── .gitignore
 └── README.md
-
-markdown
-Copy
-Edit
 
 ## Setup Instructions
 
