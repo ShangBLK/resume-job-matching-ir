@@ -1,6 +1,6 @@
 # Resume-Job Matching IR System
 
-This project explores how well traditional and modern information retrieval techniques can match resumes to relevant job descriptions. Built for CSC 575: Intelligent Information Retrieval at DePaul University, it compares a TF-IDF-based retrieval model against a semantic retrieval model using pre-trained language embeddings.
+This project explores how well traditional and modern information retrieval techniques can match resumes to relevant job descriptions. It compares a TF-IDF-based retrieval model against a semantic retrieval model using pre-trained language embeddings.
 
 ## Objective
 
